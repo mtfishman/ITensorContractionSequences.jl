@@ -1,0 +1,13 @@
+name = "ITensorContractionSequences"
+uuid = "69064282-39d2-4042-8787-67f24b92d1e9"
+authors = ["Matthew Fishman <mfishman@flatironinstitute.org> and contributors"]
+version = "0.0.1"
+
+[compat]
+julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
